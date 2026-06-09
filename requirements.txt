@@ -2,4 +2,3 @@ pynput
 keyboard
 pyinstaller
 pystray
-Pillow
