@@ -5,3 +5,4 @@ in command prompt after installing python to path run:
 pip install -r requirements.txt
 
 ᚫᛒᚲᛞᛖᛓᚷᚺᛁᛃᚲᛚᛗᚾᛟᛈᚲᚱᛋᛏᚢᚢᚹᚤᛃᛉᚦᛜ᛫᛬
+...im new to this...
