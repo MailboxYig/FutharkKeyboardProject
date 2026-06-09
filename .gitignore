@@ -1,19 +1,16 @@
-# Python stuff
+# --- BUILD ARTIFACTS (Ignore these) ---
+build/
+dist/
+*.spec
+
+# --- SECURITY (Crucial: Never upload your private keys!) ---
+*.pfx
+*.cer
+*.key
+
+# --- PYTHON/SYSTEM (Ignore these) ---
 __pycache__/
 *.py[cod]
-*.py.class
-
-#Virtual environments
-venv/
 .venv/
 env/
-.env/
-
-#Distribution / Build files
-dist/
-build/
-*.egg-info/
-
-# OS Junk
 .DS_Store
-Thumbs.db
