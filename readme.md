@@ -1,5 +1,4 @@
-have windows trust it, finally put a cert on the demented thing took 8 hours of no idea how to do so. from starting a folder to certifying it. ow
-i secured and signed it somehow lol.
+This is a keyboard font changer. Its main goal is personal use for me to work on a much larger experimental phonetic compiler project.
 in command prompt after installing python to path run:
 
 pip install -r requirements.txt
